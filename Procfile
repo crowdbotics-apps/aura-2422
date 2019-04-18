@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT aura_2422.wsgi:application
